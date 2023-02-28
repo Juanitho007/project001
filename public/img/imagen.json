@@ -1,48 +1,48 @@
 [
   {
-    "img": "url('../public/img/universe1.jpg')",
+    "img": "url('/img/universe1.jpg')",
     "border": "4px solid #00dafc",
     "shadow": "0px 0px 150px 1px #00dafc",
     "color": "#00dafc"
   },
   {
-    "img": "url('../public/img/universe2.jpg')",
+    "img": "url('/img/universe2.jpg')",
     "border": "4px solid #cf0f0f",
     "shadow": "0px 0px 150px 1px #cf0f0f",
     "color": "#cf0f0f"
   },
   {
-    "img": "url('../public/img/universe3.jpg')",
+    "img": "url('/img/universe3.jpg')",
     "border": "4px solid #00329f",
     "shadow": "0px 0px 150px 1px #00329f",
     "color": "#00329f"
   },
   {
-    "img": "url('../public/img/universe4.jpg')",
+    "img": "url('/img/universe4.jpg')",
     "border": "4px solid #7a009f",
     "shadow": "0px 0px 150px 1px #7a009f",
     "color": "#7a009f"
   },
   {
-    "img": "url('../public/img/universe5.jpg')",
+    "img": "url('/img/universe5.jpg')",
     "border": "4px solid #ffd900",
     "shadow": "0px 0px 150px 1px #ffd900",
     "color": "#ffd900"
   },
   {
-    "img": "url('../public/img/universe6.jpg')",
+    "img": "url('/img/universe6.jpg')",
     "border": "4px solid #ff2f00",
     "shadow": "0px 0px 150px 1px #ff2f00",
     "color": "#ff2f00"
   },
   {
-    "img": "url('../public/img/universe7.jpg')",
+    "img": "url('/img/universe7.jpg')",
     "border": "4px solid #0088ff",
     "shadow": "0px 0px 150px 1px #0088ff",
     "color": "#0088ff"
   },
   {
-    "img": "url('../public/img/universe8.jpg')",
+    "img": "url('/img/universe8.jpg')",
     "border": "4px solid #4c61d6",
     "shadow": "0px 0,px 150px 1px #4c61d6",
     "color": "#4c61d6"
