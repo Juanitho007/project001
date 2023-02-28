@@ -35,12 +35,9 @@ marquee {
 @media (max-width: 576px) {
     :root {
     width: fit-content;
-    overflow: hidden;
   }
   .app{
     height: 100vh;
     width: 100vw;
-    overflow: hidden;
   }
-  
 }
