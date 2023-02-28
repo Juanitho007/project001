@@ -1,0 +1,11 @@
+button {
+  background-color: transparent;
+  border: transparent;
+}
+i {
+  font-size: 60px;
+  background-image: linear-gradient(#fc0000, #0004fc);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
