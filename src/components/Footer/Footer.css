@@ -16,7 +16,7 @@
   color: #ffffff;
   text-shadow: 4px 4px 1px #000000;
 }
-a{
+a {
   text-decoration: none;
   color: inherit;
   font-size: 20px;
@@ -29,7 +29,7 @@ a{
   }
   .footer__container {
     padding: 10px;
-    padding-top: 60px;
+    padding-top: 20px;
     overflow: hidden;
   }
   .global__container {
