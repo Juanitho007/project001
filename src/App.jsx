@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Card from "./components/Card/Card";
 import Footer from "./components/Footer/Footer";
 import phrasesArray from "./assets/universe.json";
-import imgArray from "./img/imagen.json";
+import imgArray from "../public/img/imagen.json";
 import { getRandomNumber } from "./utils/getRandomNumber";
 import "./App.css";
 
@@ -26,8 +26,8 @@ function App() {
     border: imgArray[imgStart].border,
   };
   const colorStyle = {
-    color: imgArray[imgStart].color
-  }
+    color: imgArray[imgStart].color,
+  };
 
   return (
     <section className="app" style={imgStyle}>
